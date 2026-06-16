@@ -66,7 +66,7 @@ export default function Footer() {
               <FaGithub />
             </a>
             <a
-              href="www.linkedin.com/in/sudhanshusinghtomar"
+              href="https://www.linkedin.com/in/sudhanshusinghtomar"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-cyber-primary hover:scale-110 transition-all duration-300 hover:drop-shadow-[0_0_8px_#46F5B4]"
